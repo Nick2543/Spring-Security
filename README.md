@@ -1,10 +1,6 @@
-# Signup, Login with Email Verification Tutorial
+# Signup, Login with Email Verification
 
 This repository contains a tutorial on implementing user signup, login, and email verification using Spring Boot.
-
-## Overview
-
-This tutorial demonstrates how to build a Spring Boot application for user authentication with JWT-based security, including user signup, login, email verification, and basic error handling.
 
 ## Features
 
