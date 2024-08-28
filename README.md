@@ -1,6 +1,8 @@
 # Signup, Login with Email Verification
 
-This repository contains a tutorial on implementing user signup, login, and email verification using Spring Boot.
+![spring-security](https://github.com/user-attachments/assets/ea99e2e8-0ca2-4cf2-911d-4557139d5866)
+
+This repository contains on implementing user signup, login, and email verification using Spring Boot.
 
 ## Features
 
